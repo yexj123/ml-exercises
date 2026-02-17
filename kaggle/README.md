@@ -14,7 +14,6 @@ My goal is to apply theoretical concepts from books like *"Hands-On Machine Lear
 - [**View Notebook**](kaggle/house_prices/house.ipynb)
 
 ### 2. 🚢 [Titanic: Machine Learning from Disaster](kaggle/titanic/) 
-*(Note: If this was a different competition, simply change the title here)*
 **Goal:** Predict survival based on passenger data
 - **Techniques:** Feature Engineering, Model Tuning.
 - **Score:** `0.77751` (Accuracy)
