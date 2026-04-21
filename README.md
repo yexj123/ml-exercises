@@ -7,8 +7,8 @@ A collection of machine learning projects and exercises focused on mastering cor
 
 The project is organized into two primary sections:
 
-- handson-ml/: Detailed notes (finished the part on machine learning, but not uploaded) and code implementations (only the first chapters) based on the book Hands-On Machine Learning with Scikit-Learn.
+- [Handson-ml](handson-ml/): Detailed notes (finished the part on machine learning, but not uploaded) and code implementations (only the first chapters) based on the book Hands-On Machine Learning with Scikit-Learn.
 
-- kaggle/: Independent projects and experiments using Scikit. These projects apply the techniques learned in the textbook to real-world datasets.
+- [kaggle](kaggle/): Independent projects and experiments using Scikit. These projects apply the techniques learned in the textbook to real-world datasets.
 
 More detailed descriptions are inside the folders.
