@@ -21,7 +21,6 @@ My goal is to apply theoretical concepts from books like *"Hands-On Machine Lear
 - **Updates:** 🤖 Code structure and model performance were improved and optimized using **Google Gemini**.
 - [**View Notebook**](kaggle/titanic/titanic.ipynb)
 
-*(More projects coming soon... Hope so)*
 
 ## 🛠️ Tech Stack
 - **Python:** 3.x
