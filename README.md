@@ -3,7 +3,7 @@ A collection of machine learning projects and exercises focused on mastering cor
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The project is organized into two primary sections:
 
